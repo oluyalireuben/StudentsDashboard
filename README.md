@@ -11,6 +11,7 @@ A minimal, responsive and dynamic Student Dashboard  project made up using HTML,
 <b> <br>USAGE: <br> </b>
 Clone the repository and open it in any HTML Editor.
 https://github.com/oluyalireuben/StudentsDashboard
+
 Run the website using your favourite browser
 
 
