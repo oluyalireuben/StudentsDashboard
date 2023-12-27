@@ -9,7 +9,7 @@ A minimal, responsive and dynamic Student Dashboard  project made up using HTML,
 -JS
 
 <b> <br>USAGE: <br> </b>
-Clone the repository and open it in any HTML Editor.
+Clone the repository and open it in any HTML Editor
 https://github.com/oluyalireuben/StudentsDashboard
 
 Run the website using your favourite browser
