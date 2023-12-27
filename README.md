@@ -17,9 +17,9 @@ Run the website using your favourite browser
 
 <b> <br>CONTRIBUTING: <br> </b>
 
-Feel free to contribute to the development this website by opening issues and pull requests as the website is still under development.
+Feel free to contribute to the development this website by opening issues and pull requests as the website is still under development
 
 <b> <br>CONTACT US: <br> </b>
-If you have any questions concerning website building, please contact us
+If you have any questions, please contact us
 
 
