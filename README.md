@@ -21,5 +21,3 @@ Feel free to contribute to the development this website by opening issues and pu
 
 <b> <br>CONTACT US: <br> </b>
 If you have any questions, please contact us
-
-
